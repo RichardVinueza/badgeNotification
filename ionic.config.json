@@ -1,0 +1,7 @@
+{
+  "name": "badgeNotification",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
